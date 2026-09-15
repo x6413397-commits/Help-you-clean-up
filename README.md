@@ -1,4 +1,4 @@
-<!DOCTYPE html2>
+
 <html lang="zh-TW" data-theme="light">
 <head>
   <meta charset="UTF-8">
